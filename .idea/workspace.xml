@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6442a06-a57b-443e-bd22-1ea4ec5bdd2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1_if_Else_OrnekVeCozumler/C01_if_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D1_if_Else_OrnekVeCozumler/C02_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C01_Ternary_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C02_String_Manipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C03_forLoop_Sekiller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C04_genelOzetSoru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C05_forLoop_whileLoop_doWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C06_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C07_whileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C08_do_whileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C01_MethodOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C02_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C03_ArrayOrnekler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C04_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C05_ListOrnekler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mp72kSg75TD6KlyJM43MckMSFn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/emre.cigit/IdeaProjects/team4",
+    "settings.editor.selected.configurable": "editing.templates"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.C05_ListOrnekler">
+    <configuration name="C01_MethodOlusturma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C01_MethodOlusturma" />
+      <module name="team4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C02_Array" />
+      <module name="team4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_ArrayOrnekler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C03_ArrayOrnekler" />
+      <module name="team4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C04_List" />
+      <module name="team4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_ListOrnekler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C05_ListOrnekler" />
+      <module name="team4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C05_ListOrnekler" />
+        <item itemvalue="Application.C04_List" />
+        <item itemvalue="Application.C02_Array" />
+        <item itemvalue="Application.C03_ArrayOrnekler" />
+        <item itemvalue="Application.C01_MethodOlusturma" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6442a06-a57b-443e-bd22-1ea4ec5bdd2e" name="Changes" comment="" />
+      <created>1678452466547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678452466547</updated>
+    </task>
+    <servers />
+  </component>
+</project>
