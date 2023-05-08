@@ -1,5 +1,7 @@
 package D3_MethodOlusturma_Arrays_Lists;
 
+import java.util.Scanner;
+
 public class C03_ArrayOrnekler {
     public static void main(String[] args) {
         int[] dizi = {1, 2, 3, 4, 5}; // 1-Dizi Elemanlarını yazdırma
@@ -50,5 +52,29 @@ public class C03_ArrayOrnekler {
         for (int i = 0; i < yeniDizi2.length; i++) {
             System.out.print(yeniDizi2[i]);
         }
+        System.out.println("");
+        System.out.println("=============================");
+         /*
+        Kullanicidan bir cumle ve bir harf alin, harf cumlede kullanilmissa kac kere
+        kullanildigini yazdirin, kullanilmadiysa “harf cumlede kullanilmamis” yazdirin
+         */
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Lutfen bir cümle girin : ");
+        String verilenCumle = scan.nextLine();
+        System.out.print("Lutfen bir harf girin : ");
+        String harf = scan.next();
+        int sayiArti = 0;
+        String yeniVerilenCumle = verilenCumle.replaceAll(" ", "");
+        String[] cumle = yeniVerilenCumle.split("");
+        for (int i = 0; i < cumle.length; i++) {
+            if (cumle[i].equals(harf)) {
+                sayiArti++;
+            }
+        }
+        if (sayiArti != 0) {
+            System.out.println("Girdiginiz harf , girmis oldugunuz cumlede " + sayiArti + " kez kullanilmistir");
+        }else {
+                System.out.println("Girdiginiz harf , girmis oldugunuz cumlede bulunamadı");
+            }
+        }
     }
-}

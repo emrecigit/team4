@@ -17,7 +17,8 @@ public class C01_MethodOlusturma {
         yazdir("Yazdirma 1-Yazdır : java ne javaymış");// Yazdirma 1-Yazdır
         System.out.print("Yazdirma 2-Dizi Yazdır : ");diziYazdir(new int[]{2, 4, 5, 7}); //Yazdirma 2-Dizi Yazdır
         System.out.print("Yazdirma 3-Sayi Yazdir : ");sayiYazdir(5); // Yazdirma 3-Sayi Yazdir
-        System.out.print("Yazdirma 4-BolmeSonucuYazdir : ");bolmeSonucuYazdir(25, 0);//Yazdirma 4-BolmeSonucuYazdir
+        System.out.print("Yazdirma 4-BolmeSonucuYazdir : ");bolmeSonucuYazdir(25, 1);//Yazdirma 4-BolmeSonucuYazdir
+        System.out.println("Yazdirma 5-SubStringUpdated : ");subsitringUpdated("Merhaba",0,4); // Yazdirma 5-SubStringUpdated
     }
     // Dondurme Methodları
     public static int toplama(int sayi1, int sayi2) { // Döndürme 1-Toplam
@@ -63,6 +64,22 @@ public class C01_MethodOlusturma {
         else{
             throw new ArithmeticException("Bir sayi sıfıra bolunemez");
         }
+    }
+    public static void subsitringUpdated(String input, int basIndex, int sonIndex ){ // Yazdirma 5-SubStringUpdated
+        String sonuc ="";
+      if (basIndex>sonIndex){
+          System.out.println("Başalngıc indexi , bitiş indexinden buyuk olamaz!");
+      } else if (sonIndex>=input.length()) {
+          System.out.println("Bitiş indexi String sınırları dışındadır!");
+      }else {
+          for (int i = basIndex; i < sonIndex; i++) {
+            sonuc += input.charAt(i);
+          }System.err.print("Girmiş Oldugunuz String : "+"\""+input+"\""+" ,Girmiş olduğunuz Başlangıç Index Degeri : "+basIndex+ " ,Girmiş Olduğunuz Bitiş Index Degeri : "+sonIndex+" ,Istenen Çıktı Ise : "+sonuc);
+      }
+
+
+
+
     }
 }
 

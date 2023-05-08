@@ -2,7 +2,7 @@ package D3_MethodOlusturma_Arrays_Lists;
 
 
 import java.util.ArrayList;
-public class C05_ListOrnekler {
+public class C05_ListOrnekler1 {
     public static void main(String[] args) {
         ArrayList<String> liste = new ArrayList<>(); //1-List'e Eleman ekleme ve Elemanları Listeleme
         liste.add("Java");// Eleman ekleme

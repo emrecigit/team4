@@ -5,28 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6442a06-a57b-443e-bd22-1ea4ec5bdd2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1_if_Else_OrnekVeCozumler/C01_if_Else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D1_if_Else_OrnekVeCozumler/C02_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C01_Ternary_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C02_String_Manipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C03_forLoop_Sekiller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C04_genelOzetSoru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C05_forLoop_whileLoop_doWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C06_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C07_whileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D2_Ternary_StringManipulation_Loop/C08_do_whileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C01_MethodOlusturma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C02_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C03_ArrayOrnekler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C04_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C05_ListOrnekler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C06_ListOrnekler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C07_ifForLoopOrnekler3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/HesapMakinesiBasit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/HesapMakinesiKapsamli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4_Ornekler/D01_ArrayOrnekler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4_Ornekler/D02_OrneklerLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4_Ornekler/D03_OrneklerSifreDoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C01_MethodOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C01_MethodOlusturma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C03_ArrayOrnekler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C03_ArrayOrnekler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C04_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C04_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C05_ListOrnekler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D3_MethodOlusturma_Arrays_Lists/C05_ListOrnekler1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +39,7 @@
   </component>
   <component name="ProjectId" id="2Mp72kSg75TD6KlyJM43MckMSFn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,17 +50,27 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/emre.cigit/IdeaProjects/team4",
-    "settings.editor.selected.configurable": "editing.templates"
+    "last_opened_file_path": "C:/Users/emre.cigit/IdeaProjects/emrecigit_GitHub",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C05_ListOrnekler">
-    <configuration name="C01_MethodOlusturma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C01_MethodOlusturma" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\emre.cigit\IdeaProjects\team4\src\D7_Inheritance" />
+      <recent name="C:\Users\emre.cigit\IdeaProjects\team4\src" />
+      <recent name="C:\Users\emre.cigit\IdeaProjects\team4\src\aaa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.runner1_DataVeConstructorAyni">
+    <configuration name="A001_Sonuc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D6_Inheritance.A001_Sonuc" />
       <module name="team4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="PATTERN" value="D8_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C02_Array" />
+    <configuration name="A002Sonuc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D6_Inheritance.A002Sonuc" />
       <module name="team4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="PATTERN" value="D8_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_ArrayOrnekler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C03_ArrayOrnekler" />
+    <configuration name="A013_Encapsulation_Rapor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D6_Inheritance.A013_Encapsulation_Rapor" />
       <module name="team4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="PATTERN" value="D8_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C04_List" />
+    <configuration name="runner1_DataVeConstructorAyni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D6_Inheritance.runner1_DataVeConstructorAyni" />
       <module name="team4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="PATTERN" value="D6_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_ListOrnekler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D3_MethodOlusturma_Arrays_Lists.C05_ListOrnekler" />
+    <configuration name="runner2_DataveConstructorFarkli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D7_Inheritance.runner2_DataveConstructorFarkli" />
       <module name="team4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D3_MethodOlusturma_Arrays_Lists.*" />
+          <option name="PATTERN" value="D7_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C05_ListOrnekler" />
-        <item itemvalue="Application.C04_List" />
-        <item itemvalue="Application.C02_Array" />
-        <item itemvalue="Application.C03_ArrayOrnekler" />
-        <item itemvalue="Application.C01_MethodOlusturma" />
+        <item itemvalue="Application.runner1_DataVeConstructorAyni" />
+        <item itemvalue="Application.runner2_DataveConstructorFarkli" />
+        <item itemvalue="Application.A001_Sonuc" />
+        <item itemvalue="Application.A002Sonuc" />
+        <item itemvalue="Application.A013_Encapsulation_Rapor" />
       </list>
     </recent_temporary>
   </component>
@@ -149,5 +150,10 @@
       <updated>1678452466547</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/team4$Recursive_Ozyinelemeli_Method.ic" NAME="Recursive_Ozyinelemeli_Method Coverage Results" MODIFIED="1682891965044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>D5_Constructor.*</FILTER>
+    </SUITE>
   </component>
 </project>

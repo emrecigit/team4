@@ -16,7 +16,8 @@ public class C04_List {
         } sayilar.add(arrSayilar.length,11);
         System.out.println("Array Dizisini Liste Çevirme ve Ekleme Yapma 1.Yöntem (for each) : "+sayilar);
         System.out.println("============================================");
-        List<Integer> sayilar2 =  Arrays.asList(arrSayilar);// Arrayi Liste Çevirme 1.Method
+
+        List<Integer> sayilar2 =  Arrays.asList(arrSayilar);// Arrayi Liste Çevirme 2.Method
         System.out.println("Array Dizisini Liste Çevirme 2.Yöntem Arrays.asList (Bu Yöntem Ekleme Yaptırmaz) : "+sayilar2);// Arrayi Liste Çevirme
         //System.out.println(sayilar2.add(11));//2.Yöntem Ekleme Çıkarma Yapmaz
         System.out.println("============================================");
